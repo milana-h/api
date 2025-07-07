@@ -3,3 +3,5 @@
 Тестирование SOAP https://www.postman.com/milana-7324714/workspace/milana-s-workspace/collection/45574549-767b37b5-ef48-4e5f-99d8-7dfff8196bbb?action=share&creator=45574549
 Дополнение первой коллекции в Postman https://www.postman.com/milana-7324714/workspace/milana-s-workspace/collection/45574549-66581983-1f11-4712-b963-eb04385f1c3e?action=share&creator=45574549&active-environment=45574549-3784950d-2e94-4f12-8cc9-ea5df55d11e9
 Изменение запроса POST в категории Products https://www.postman.com/milana-7324714/workspace/milana-s-workspace/collection/45574549-66581983-1f11-4712-b963-eb04385f1c3e?action=share&creator=45574549
+тест кейсы API https://github.com/milana-h/api/commit/0f8bfdddb836862862acee1b744f4c218fe014f3
+test run в postman https://github.com/milana-h/api/commit/4dc9dcc4bb002e04c7b80caa6cd6262821bcc585
